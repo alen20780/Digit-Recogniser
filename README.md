@@ -2,7 +2,7 @@
 The purpose of the project is to identify and predict the handwritten input digits from 0-9. It can be used in many real-life scenarios such as Optical Character Recognition (OCR). 
 # Vision
 This project aims to develop a real-time handwritten digit recognition system using computer vision and machine learning techniques. The system will utilize a webcam to capture images of handwritten digits and recognize them using three different machine learning models: Neural Network, Support Vector Machine, and K-Nearest Neighbors.
-# Flowchart
+# Flow
 User selects a machine learning model to use
 Model is trained on MNIST dataset
 Webcam captures images of handwritten digits
